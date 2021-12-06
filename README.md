@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @beatavernaro
+- 👀 I’m interested in Full Stack development
+- 🌱 I’m currently learning HTML / CSS / JS
+- 💞️ I’m looking to collaborate on anything!
+- 📫 How to reach me betavernaro.dev@gmail.com
