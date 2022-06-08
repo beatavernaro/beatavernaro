@@ -9,7 +9,9 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     </a>
 </div>
 
@@ -38,11 +40,12 @@
 <br>
 
 <h4>
-👩🏼‍🎓  Estudante de desenvolvimento full stack na Tera <br>
-📚  O que estou aprendendo: React <br>
-💭  Me interesso por: Desenvolvimento Full Stack, Clean Code, Mulheres na Tecnologia <br>
+👩🏼‍🎓  Estudante de desenvolvimento full stack na Tera e na Let's Code<br>
+⛵  Trainee Full Stack no Banco Safra  
+📚  O que estou aprendendo: C# e foco em desenvolvimento Back End <br>
+💭  Me interesso por: Desenvolvimento Full Stack, Clean Code, Mulheres na Tecnologia, Educação, Mercado Financeiro <br>
 🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
-🟢  #OpenToWork
+
 </h4>
 
 <br>
