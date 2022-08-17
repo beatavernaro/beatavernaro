@@ -40,10 +40,10 @@
 <br>
 
 <h4>
-👩🏼‍🎓  Estudante de desenvolvimento full stack na Tera e na Let's Code<br>
+👩🏼‍🎓  Estudante de desenvolvimento full stack na Ada by Let's Code<br>
 ⛵  Trainee Full Stack no Banco Safra  
 📚  O que estou aprendendo: C# e foco em desenvolvimento Back End <br>
-💭  Me interesso por: Desenvolvimento Full Stack, Clean Code, Mulheres na Tecnologia, Educação, Mercado Financeiro <br>
+💭  Me interesso por: Desenvolvimento Full Stack, Clean Code, Mulheres na Tecnologia, Educação, Magic: The Gathering <br>
 🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
 
 </h4>
