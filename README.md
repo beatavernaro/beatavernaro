@@ -43,9 +43,8 @@
 
 <h4>
 👩🏼‍🎓  Estudante de Análise e desenvolvimento de sistemas na Facens<br>
-🙆‍♀️  Facilitadora no Bootcamp Full Stack Developer na Tera<br
-📚  O que estou aprendendo: C#, dotNet Framework, testes e foco em desenvolvimento Back End <br>
-💭  Me interesso por: Desenvolvimento Full Stack, Qualidade e limpeza de código, Mulheres na Tecnologia, Educação, Magic: The Gathering <br>
+📚  O que estou aprendendo: C#, .NET Framework, testes e foco em desenvolvimento Back End <br>
+💭  Me interesso por: Desenvolvimento Full Stack, Qualidade e limpeza de código, Mulheres na Tecnologia, Educação, Magic: The Gathering e Board Games <br>
 🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
 </h4>
 
