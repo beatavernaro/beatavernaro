@@ -61,8 +61,8 @@
 <a href="https://github.com/beatavernaro/HomeLib">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=HomeLib&theme=dracula" />
 </a>
-    <a href="https://github.com/beatavernaro/Projeto-Grupo-4-POO-I">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=Projeto-Grupo-4-POO-I&theme=dracula" />
+    <a href="https://github.com/beatavernaro/Retroflix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=Retroflix&theme=dracula" />
 </a>
 </div>
 
