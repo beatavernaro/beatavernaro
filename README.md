@@ -50,30 +50,3 @@
 
 ##
 
-<div align="center">
-    <h3> Projetos pessoais </h3>
-<a href="https://github.com/beatavernaro/TodoListMinimalAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=TodoListMinimalAPI&theme=dracula" />
-</a>
-<a href="https://github.com/beatavernaro/SuperbowlAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=SuperbowlAPI&theme=dracula" />
-</a><br>
-<a href="https://github.com/beatavernaro/HomeLib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=HomeLib&theme=dracula" />
-</a>
-    <a href="https://github.com/beatavernaro/Retroflix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beatavernaro&repo=Retroflix&theme=dracula" />
-</a>
-</div>
-
-##
-<br>
-<div align="center">
-    <a href="https://github.com/beatavernaro">
-        <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=beatavernaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="150em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatavernaro&layout=compact&langs_count=7&theme=dracula" />
-    </a>
-</div>
-<br>
