@@ -1,52 +1,64 @@
-<div align="center">
-    <h2> Olá! Sou a Beatriz Tavernaro! </h2>
-    <div align="center">
-    <a href="mailto:betavernaro.dev@gmail.com"> <img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-    <a href="https://www.linkedin.com/in/beatriz-tavernaro-544a69220/" target="_blank"> <img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-        <a href="https://dev.to/monokai_dev" target="_blank"> <img
-            src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /> </a>
-        <a href="https://twitter.com/monokai_dev" /> <img
-            src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
-</div>
-</div>
+## 👩‍💻 About Me
 
-##
+Hi! I'm Beatriz Tavernaro, a passionate **Full Stack Developer** from Brazil with a strong focus on building scalable, efficient, and well-structured backend systems using **C# and .NET**.
 
-<div align="center">
-    <h4> Linguagens e ferramentas que conheço </h4>
-    <h3>Front End</h3>
-    <a href="https://github.com/beatavernaro">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    </a>
-    <h3>Back End</h3>
-    <a href="https://github.com/beatavernaro">
-        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </a>
-    <h3>Banco de dados</h3>
-    <a href="https://github.com/beatavernaro">
-        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-    </a>
-</div>
+I love designing APIs and backend architectures that are clean, maintainable, and built to last. Recently, I've been exploring the world of **AI**, building intelligent agents and integrating LLMs using Azure OpenAI, adding new layers of smart automation to my work.
 
-##
+Currently working at **Avanade**, where I turned my internship into a full-time role by consistently delivering value and embracing continuous learning. I'm also a **Microsoft Learn Student Ambassador** at the Gold level and actively involved in the tech community, mentoring students and sharing knowledge through talks and workshops.
 
-<h4>
-👩🏼‍🎓  Estudante de Análise e desenvolvimento de sistemas na Facens<br>
-📚  O que estou aprendendo: C#, .NET Framework, testes e foco em desenvolvimento Back End <br>
-💭  Me interesso por: Desenvolvimento Full Stack, Qualidade e limpeza de código, Mulheres na Tecnologia, Educação, Magic: The Gathering e Board Games <br>
-🥂  Vamos bater um papo! Gosto de sugestões de melhoria e dicas de desenvolvimento <br>
-</h4>
+I believe in writing code that’s not just functional, but also **meaningful and human-centered**. The best solutions come from combining solid engineering with empathy — and that’s the kind of work I strive to build.
 
-##
+Curious by nature. Always learning. Always building.
 
+## 🚀 Tech Stack
+
+<div> <table> <tr> <td valign="top" width="50%">
+🔶 <strong>Back-End</strong><br> 🔸 C# / .NET Framework / .NET Core <br> 🔸 Node.js, Java, Python (basic) <br> 🔸 Clean architecture, API design, SOLID principles <br><br>
+
+🔶 <strong>Databases</strong><br> 🔸 SQL Server <br> 🔸 MongoDB <br> 🔸 MySQL <br><br>
+
+🔶 <strong>Tools & DevOps</strong><br> 🔸 Git / GitHub <br> 🔸 Docker <br> 🔸 Postman / Swagger <br>
+
+</td> <td valign="top" width="50%">
+🔶 <strong>Front-End</strong><br> 🔸 Angular / TypeScript <br> 🔸 HTML / CSS <br><br>
+
+🔶 <strong>Cloud & AI</strong><br> 🔸 Microsoft Azure (AZ-900 certified) <br> 🔸 Azure OpenAI, LLMs & Intelligent Agents <br><br>
+
+🔶 <strong>Other</strong><br> 🔸 Microsoft Learn Student Ambassador (Gold) <br> 🔸 Mentorship & Tech Community Involvement <br>
+
+</td> </tr> </table> </div>
+
+## 📜 Certifications
+
+✅**AZ-900**: Microsoft Azure Fundamentals <br>
+✅**AI-900**: Microsoft Azure AI Fundamentals <br>
+✅**MS-900**: Microsoft 365 Fundamentals <br>
+✅**Fundational C#:** by Microsoft & FreeCodeCamp <br>
+
+_🧠 Next on the radar:_ <br>
+🔸 GitHub Foundations <br>
+🔸 GitHub Copilot Fundamentals <br>
+🔸**AI-102**: Azure AI Engineer Associate <br>
+🔸 **SC-900**: Security, Compliance, and Identity Fundamentals <br>
+
+## 📂 Featured Projects
+
+🔹 [HomeLib](https://github.com/beatavernaro/HomeLib) <br>
+RESTful API built with .NET to manage a personal library — including books, authors, categories, and more. Focused on clean architecture and best coding practices.
+
+🔹 [Retroflix](https://github.com/beatavernaro/Retroflix)<br>
+Full Stack project simulating a retro movie rental service. Backend built with .NET, frontend with Angular, and relational database integration.
+
+🔹 [MyTe - Decola tech](https://github.com/beatavernaro/projeto-myte-decolatech)<br>
+A project developed for the conclusion of the Decola Tech internship course. Built with .NET and Blazor, EntityFramework and MySQL database.
+
+🔹 [MLSAPortfolio](https://github.com/beatavernaro/MLSAPortfolio)<br>
+React-based portfolio built using a GitHub Codespaces template. Developed to explore and learn modern GitHub features like Codespaces and Actions in a real-world setup.
+
+#
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-tavernaro)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/monokai_dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:betavernaro.dev@gmail.com)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://mvp.microsoft.com/en-US/studentambassadors/profile/5fe90cb3-bfb3-464f-99b3-87f705e7dc07)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/monokai_dev)
