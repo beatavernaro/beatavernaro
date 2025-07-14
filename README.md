@@ -43,8 +43,11 @@ _🧠 Next on the radar:_ <br>
 
 ## 📂 Featured Projects
 
-🔹 [HomeLib](https://github.com/beatavernaro/HomeLib) <br>
-RESTful API built with .NET to manage a personal library — including books, authors, categories, and more. Focused on clean architecture and best coding practices.
+🔹 [Booking Manager](https://github.com/beatavernaro/BookingManager) <br>
+A RESTful API for managing medical appointments, allowing patients to schedule, view, and cancel consultations.
+
+🔹 [Booking Manager Worker](https://github.com/beatavernaro/BookingManagerWorker) <br>
+A .NET 8 Worker Service that automatically monitors appointments in the database and sends confirmation reminders to clients.
 
 🔹 [Retroflix](https://github.com/beatavernaro/Retroflix)<br>
 Full Stack project simulating a retro movie rental service. Backend built with .NET, frontend with Angular, and relational database integration.
@@ -52,8 +55,8 @@ Full Stack project simulating a retro movie rental service. Backend built with .
 🔹 [MyTe - Decola tech](https://github.com/beatavernaro/projeto-myte-decolatech)<br>
 A project developed for the conclusion of the Decola Tech internship course. Built with .NET and Blazor, EntityFramework and MySQL database.
 
-🔹 [MLSAPortfolio](https://github.com/beatavernaro/MLSAPortfolio)<br>
-React-based portfolio built using a GitHub Codespaces template. Developed to explore and learn modern GitHub features like Codespaces and Actions in a real-world setup.
+🔹 [Portfolio 2025 version](https://github.com/beatavernaro/portfolio2025)<br>
+A simple portfolio to showcase my projects, articles and talks. Build with Angular.
 
 #
 
