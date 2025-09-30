@@ -33,11 +33,12 @@ Curious by nature. Always learning. Always building.
 ✅**AZ-900**: Microsoft Azure Fundamentals <br>
 ✅**AI-900**: Microsoft Azure AI Fundamentals <br>
 ✅**MS-900**: Microsoft 365 Fundamentals <br>
+✅**GH-900**: Github Foundations <br>
+✅**GH-300**: Github Copilot Fundamentals <br>
 ✅**Fundational C#:** by Microsoft & FreeCodeCamp <br>
 
 _🧠 Next on the radar:_ <br>
-🔸 GitHub Foundations <br>
-🔸 GitHub Copilot Fundamentals <br>
+🔸 Postgrad in Software Architecture <br>
 🔸**AI-102**: Azure AI Engineer Associate <br>
 🔸 **SC-900**: Security, Compliance, and Identity Fundamentals <br>
 
